@@ -1,0 +1,31 @@
+Hospital_Name,Location,Specialty,Total_Beds,Available_Beds,ICU_Beds,Doctors,Nurses,Ventilators,Ambulances,Hospital_Rating,Total_Reviews,Contact_Number
+Rainbow Children's Hospital,LB Nagar,Pulmonology,497,165,109,119,529,12,15,4.0,4264,0080065547
+Basavatarakam Indo American Cancer Hospital,Madhapur,Cardiology,1013,409,139,407,460,68,6,4.5,3935,01799318364
+Rainbow Children's Hospital,LB Nagar,General Medicine,170,27,89,62,82,19,15,4.7,2398,05639753296
+AIG Hospitals,Secunderabad,Orthopedics,793,130,26,301,397,43,15,3.6,2065,09766709835
+AIG Hospitals,Kukatpally,Pediatrics,408,52,39,68,893,95,20,3.8,4737,06126502233
+Continental Hospitals,Kukatpally,Pediatrics,949,60,96,329,882,19,17,4.9,3490,03991435016
+Citizens Specialty Hospital,Somajiguda,Oncology,435,194,39,374,244,21,4,4.9,2083,+911192869684
+Sunshine Hospitals,Hitech City,General Medicine,625,89,110,487,484,92,5,4.7,2197,07688782068
+Virinchi Hospitals,Banjara Hills,ICU,987,25,106,165,704,34,19,4.9,3502,04463095957
+Medicover Hospitals,Begumpet,Emergency Care,943,130,45,375,798,30,21,4.2,760,08546472260
+Image Hospitals,Madhapur,Neurology,425,41,88,429,514,67,17,4.7,2393,7466740890
+Basavatarakam Indo American Cancer Hospital,Madhapur,Neurology,814,130,137,277,151,64,14,4.1,4095,08610897241
+AIG Hospitals,Madhapur,Orthopedics,831,353,75,371,774,12,17,3.9,4090,08138741650
+Global Hospitals,Madhapur,ICU,845,48,56,313,531,35,22,4.3,2109,06958845627
+Virinchi Hospitals,Gachibowli,Emergency Care,148,36,72,307,336,81,19,4.3,3722,02183315746
+Global Hospitals,Secunderabad,Pediatrics,130,53,44,204,143,64,21,4.2,1162,+917510573427
+CARE Hospitals,Begumpet,Cardiology,641,275,136,399,850,45,2,4.9,4737,04184541855
+Apollo Hospitals,Banjara Hills,Orthopedics,350,71,22,192,486,42,16,4.8,3194,00150399944
+Continental Hospitals,Madhapur,ICU,543,49,55,407,727,99,3,3.7,3630,5282205074
+AIG Hospitals,Begumpet,Pediatrics,533,57,133,487,607,59,16,4.0,2560,08754118091
+KIMS Hospitals,Hitech City,ICU,331,17,52,403,672,74,4,4.4,3081,1759993358
+Citizens Specialty Hospital,Begumpet,General Medicine,913,160,101,114,140,94,21,4.8,2825,2896698623
+KIMS Hospitals,Gachibowli,Emergency Care,206,27,52,349,299,53,12,4.9,2083,8897088742
+Medicover Hospitals,Banjara Hills,Neurology,533,210,27,410,669,75,5,3.9,2855,+917763503482
+CARE Hospitals,Begumpet,ICU,633,278,142,127,618,78,22,4.5,1810,+916168764251
+KIMS Hospitals,LB Nagar,Radiology,132,61,127,310,228,99,11,4.3,1106,3685754678
+Basavatarakam Indo American Cancer Hospital,Kukatpally,Orthopedics,365,91,56,363,281,86,4,4.2,3389,+919796485607
+Yashoda Hospitals,Somajiguda,Orthopedics,191,46,83,211,766,24,20,4.4,2691,7322201640
+Continental Hospitals,Kukatpally,Radiology,268,48,109,72,732,69,16,3.6,1079,04122140606
+Medicover Hospitals,Banjara Hills,Pulmonology,250,80,149,232,858,78,21,4.5,4269,00982311724
